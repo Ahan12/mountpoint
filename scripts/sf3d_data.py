@@ -14,6 +14,22 @@ BASE = DATA_ROOT     # data root: scans, caches, exemplar DB
 from sf3d import motion as M
 
 def load(cache='annot_points_r11'):
+    """Load every cached element. Fails immediately and by name if the data
+    root is not set -- an unset SF3D_ROOT used to surface as a ZeroDivisionError
+    in whichever script happened to divide by the element count first."""
+    if not os.path.isdir(f'{BASE}/data'):
+        raise SystemExit(
+            f'No data under SF3D_ROOT={BASE}\n'
+            f'  expected {BASE}/data/<visit>/<visit>_annotations.json\n\n'
+            f'Set SF3D_ROOT to your SceneFun3D data root.\n'
+            f'See README.md, "Data layout".')
+    if not os.path.isdir(f'{BASE}/{cache}'):
+        raise SystemExit(
+            f'Missing cache {BASE}/{cache}\n\n'
+            f'Build it with:\n'
+            f'  python scripts/build_annot_caches.py --data $SF3D_ROOT/data \\\n'
+            f'      --pts-dir $SF3D_ROOT/{cache} \\\n'
+            f'      --org-dir $SF3D_ROOT/annot_origins --radius 1.10 --cap 120000')
     ann = {os.path.basename(os.path.dirname(f)): f
            for f in glob.glob(f'{BASE}/data/*/*_annotations.json')}
     mot = {os.path.basename(os.path.dirname(f)): f
