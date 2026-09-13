@@ -1,0 +1,3892 @@
+[
+ {
+  "scene": "0a76e06478",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "0a76e06478",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "0a76e06478",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "0a76e06478",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "0a76e06478",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "0a76e06478",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "0a76e06478",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "0a76e06478",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "0a76e06478",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "0a76e06478",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "0a76e06478",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "1204e08f17",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": false,
+  "org_ours": false
+ },
+ {
+  "scene": "1204e08f17",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "1204e08f17",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": false,
+  "org_ours": false
+ },
+ {
+  "scene": "1204e08f17",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "1366d5ae89",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "1366d5ae89",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": false,
+  "org_ours": false
+ },
+ {
+  "scene": "1366d5ae89",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "1366d5ae89",
+  "kind": "trans",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "1366d5ae89",
+  "kind": "trans",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "1366d5ae89",
+  "kind": "trans",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "1366d5ae89",
+  "kind": "trans",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "1366d5ae89",
+  "kind": "trans",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "1366d5ae89",
+  "kind": "trans",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "1366d5ae89",
+  "kind": "trans",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "1366d5ae89",
+  "kind": "trans",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "1366d5ae89",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "1366d5ae89",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": false,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": false,
+  "org_ours": true
+ },
+ {
+  "scene": "1841a0b525",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "1ae9e5d2a6",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "1ae9e5d2a6",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "1ae9e5d2a6",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "25f3b7a318",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "25f3b7a318",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": false,
+  "org_ours": false
+ },
+ {
+  "scene": "25f3b7a318",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": false,
+  "org_ours": false
+ },
+ {
+  "scene": "27dd4da69e",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": false,
+  "org_ours": false
+ },
+ {
+  "scene": "27dd4da69e",
+  "kind": "trans",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "27dd4da69e",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "27dd4da69e",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "27dd4da69e",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "27dd4da69e",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "27dd4da69e",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "27dd4da69e",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "27dd4da69e",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": false,
+  "org_ours": false
+ },
+ {
+  "scene": "27dd4da69e",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "27dd4da69e",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "27dd4da69e",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "27dd4da69e",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": false,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": false,
+  "org_ours": true
+ },
+ {
+  "scene": "27dd4da69e",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "27dd4da69e",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": false,
+  "org_ours": false
+ },
+ {
+  "scene": "27dd4da69e",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "27dd4da69e",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "27dd4da69e",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "27dd4da69e",
+  "kind": "trans",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "27dd4da69e",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "27dd4da69e",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": false,
+  "org_ours": false
+ },
+ {
+  "scene": "27dd4da69e",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": false,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "27dd4da69e",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "27dd4da69e",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": false,
+  "org_ours": false
+ },
+ {
+  "scene": "27dd4da69e",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "27dd4da69e",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "27dd4da69e",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "2e74812d00",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "2e74812d00",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "2e74812d00",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "2e74812d00",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "2e74812d00",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "2e74812d00",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "2e74812d00",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "2e74812d00",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "2e74812d00",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": false,
+  "org_ours": false
+ },
+ {
+  "scene": "2e74812d00",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "2e74812d00",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "30f4a2b44d",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": false,
+  "org_ours": false
+ },
+ {
+  "scene": "30f4a2b44d",
+  "kind": "trans",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "30f4a2b44d",
+  "kind": "trans",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "30f4a2b44d",
+  "kind": "trans",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "30f4a2b44d",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "324d07a5b3",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": false,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": false,
+  "org_ours": true
+ },
+ {
+  "scene": "324d07a5b3",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": false,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": false,
+  "org_ours": true
+ },
+ {
+  "scene": "324d07a5b3",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "324d07a5b3",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "324d07a5b3",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": false,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "324d07a5b3",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "324d07a5b3",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": false,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "38d58a7a31",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": false,
+  "org_ours": false
+ },
+ {
+  "scene": "38d58a7a31",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "38d58a7a31",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": false,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": false,
+  "org_ours": true
+ },
+ {
+  "scene": "38d58a7a31",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "38d58a7a31",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "40b56bf310",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "40b56bf310",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": false,
+  "org_ours": false
+ },
+ {
+  "scene": "40b56bf310",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": false,
+  "org_ours": false
+ },
+ {
+  "scene": "40b56bf310",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "419cbe7c11",
+  "kind": "trans",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "419cbe7c11",
+  "kind": "trans",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "419cbe7c11",
+  "kind": "trans",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "419cbe7c11",
+  "kind": "trans",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "419cbe7c11",
+  "kind": "trans",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "419cbe7c11",
+  "kind": "trans",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "419cbe7c11",
+  "kind": "trans",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "419cbe7c11",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": false,
+  "org_ours": false
+ },
+ {
+  "scene": "419cbe7c11",
+  "kind": "trans",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "419cbe7c11",
+  "kind": "trans",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "419cbe7c11",
+  "kind": "trans",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "419cbe7c11",
+  "kind": "trans",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "419cbe7c11",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": false,
+  "org_ours": false
+ },
+ {
+  "scene": "41b00feddb",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": false,
+  "org_ours": false
+ },
+ {
+  "scene": "41b00feddb",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "41b00feddb",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "41b00feddb",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "41b00feddb",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "41b00feddb",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "41b00feddb",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "4422722c49",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "4422722c49",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "4422722c49",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "4422722c49",
+  "kind": "trans",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "4422722c49",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "4422722c49",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "4a1a3a7dc5",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "4a1a3a7dc5",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "4a1a3a7dc5",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "4a1a3a7dc5",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "4a1a3a7dc5",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "4a1a3a7dc5",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "4a1a3a7dc5",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "4a1a3a7dc5",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "4a1a3a7dc5",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "55b2bf8036",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "55b2bf8036",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "55b2bf8036",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "55b2bf8036",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "55b2bf8036",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "55b2bf8036",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "55b2bf8036",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "55b2bf8036",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "55b2bf8036",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "55b2bf8036",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "55b2bf8036",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "55b2bf8036",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "55b2bf8036",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "55b2bf8036",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "55b2bf8036",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "55b2bf8036",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "55b2bf8036",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "5654092cc2",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": false,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": false,
+  "org_ours": true
+ },
+ {
+  "scene": "5654092cc2",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": false,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": false,
+  "org_ours": true
+ },
+ {
+  "scene": "5654092cc2",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": false,
+  "org_ours": false
+ },
+ {
+  "scene": "5654092cc2",
+  "kind": "trans",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "5654092cc2",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": false,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": false,
+  "org_ours": true
+ },
+ {
+  "scene": "5654092cc2",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "5654092cc2",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "5654092cc2",
+  "kind": "trans",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "5654092cc2",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "5654092cc2",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "5656608266",
+  "kind": "trans",
+  "has_h": true,
+  "axis_ok": false,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "5656608266",
+  "kind": "trans",
+  "has_h": true,
+  "axis_ok": false,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "5656608266",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": false,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "5656608266",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": false,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "5656608266",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": false,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "5656608266",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": false,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "5656608266",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": false,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "5656608266",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": false,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "5656608266",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "5656608266",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "5748ce6f01",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "5748ce6f01",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "5eb31827b7",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "5eb31827b7",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": false,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "5eb31827b7",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "5eb31827b7",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "5ee7c22ba0",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "5ee7c22ba0",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "5ee7c22ba0",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "5ee7c22ba0",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "61adeff7d5",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "61adeff7d5",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "61adeff7d5",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "61adeff7d5",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": false,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": false,
+  "org_ours": true
+ },
+ {
+  "scene": "61adeff7d5",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "61adeff7d5",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "61adeff7d5",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "61adeff7d5",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "61adeff7d5",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "61adeff7d5",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "61adeff7d5",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "61adeff7d5",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "61adeff7d5",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "61adeff7d5",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "61adeff7d5",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "61adeff7d5",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "61adeff7d5",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "61adeff7d5",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "61adeff7d5",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "61adeff7d5",
+  "kind": "trans",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "61adeff7d5",
+  "kind": "trans",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "61adeff7d5",
+  "kind": "trans",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "61adeff7d5",
+  "kind": "trans",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "61adeff7d5",
+  "kind": "trans",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "61adeff7d5",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "61adeff7d5",
+  "kind": "trans",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "61adeff7d5",
+  "kind": "trans",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "61adeff7d5",
+  "kind": "trans",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "61adeff7d5",
+  "kind": "trans",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "61adeff7d5",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "61adeff7d5",
+  "kind": "trans",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "6464461276",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "6464461276",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "6464461276",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "6464461276",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "6464461276",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "6464461276",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "6464461276",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "6464461276",
+  "kind": "trans",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "6464461276",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "6464461276",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "6464461276",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "6464461276",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "6464461276",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "6464461276",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "6464461276",
+  "kind": "trans",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "6464461276",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "6464461276",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": false,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": false,
+  "org_ours": true
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "trans",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": false,
+  "org_ours": false
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": false,
+  "org_ours": false
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": false,
+  "org_ours": false
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": false,
+  "org_ours": false
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": false,
+  "org_ours": false
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": false,
+  "org_ours": false
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "trans",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "88627b561e",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "8890d0a267",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "8890d0a267",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": false,
+  "org_ours": false
+ },
+ {
+  "scene": "8890d0a267",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "8890d0a267",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "8890d0a267",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "8a20d62ac0",
+  "kind": "trans",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "8a20d62ac0",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "8a20d62ac0",
+  "kind": "trans",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "8a20d62ac0",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "8a20d62ac0",
+  "kind": "trans",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "8a20d62ac0",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "8a20d62ac0",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "8a20d62ac0",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "8a20d62ac0",
+  "kind": "trans",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "8a20d62ac0",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "8a20d62ac0",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "8d563fc2cc",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "8d563fc2cc",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "8d563fc2cc",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "8d563fc2cc",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "8f82c394d6",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "9071e139d9",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "9071e139d9",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "9071e139d9",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "9071e139d9",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "9071e139d9",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "9071e139d9",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "9071e139d9",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "9071e139d9",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": false,
+  "org_ours": false
+ },
+ {
+  "scene": "9071e139d9",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "9071e139d9",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "9859de300f",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "9859de300f",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "9859de300f",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "9859de300f",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "9859de300f",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "9859de300f",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": false,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": false,
+  "org_ours": true
+ },
+ {
+  "scene": "9859de300f",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": false,
+  "org_ours": false
+ },
+ {
+  "scene": "9859de300f",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "9859de300f",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "9859de300f",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": false,
+  "org_ours": false
+ },
+ {
+  "scene": "9859de300f",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "a29cccc784",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": false,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "a29cccc784",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "a29cccc784",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "a29cccc784",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "a29cccc784",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "b20a261fdf",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "b20a261fdf",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": false,
+  "org_ours": false
+ },
+ {
+  "scene": "b20a261fdf",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "b20a261fdf",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": false,
+  "org_ours": false
+ },
+ {
+  "scene": "b20a261fdf",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": false,
+  "org_ours": false
+ },
+ {
+  "scene": "bcd2436daf",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "bcd2436daf",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "bcd2436daf",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "bcd2436daf",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "bcd2436daf",
+  "kind": "trans",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "bcd2436daf",
+  "kind": "trans",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "bcd2436daf",
+  "kind": "trans",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "bcd2436daf",
+  "kind": "trans",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "bcd2436daf",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "e398684d27",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "e398684d27",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": false,
+  "org_ours": false
+ },
+ {
+  "scene": "e398684d27",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": false,
+  "org_ours": false
+ },
+ {
+  "scene": "e398684d27",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "e398684d27",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "e398684d27",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "e398684d27",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": false,
+  "mao_ours": true,
+  "org_official": false,
+  "org_ours": true
+ },
+ {
+  "scene": "e398684d27",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "e398684d27",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "e398684d27",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": false,
+  "org_ours": false
+ },
+ {
+  "scene": "e398684d27",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "e898c76c1f",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": false,
+  "org_ours": false
+ },
+ {
+  "scene": "e898c76c1f",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "e898c76c1f",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "e898c76c1f",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "e91722b5a3",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "e91722b5a3",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "e91722b5a3",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "e91722b5a3",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": false,
+  "org_ours": false
+ },
+ {
+  "scene": "e91722b5a3",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "e91722b5a3",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "e91722b5a3",
+  "kind": "trans",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "e91722b5a3",
+  "kind": "trans",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "e91722b5a3",
+  "kind": "trans",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "e91722b5a3",
+  "kind": "trans",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "e91722b5a3",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "e91722b5a3",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "e91722b5a3",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "e91722b5a3",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "e9e16b6043",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": false,
+  "org_ours": false
+ },
+ {
+  "scene": "e9e16b6043",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "e9e16b6043",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "f3d64c30f8",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "f3d64c30f8",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "f3d64c30f8",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "f3d64c30f8",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "f5401524e5",
+  "kind": "trans",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "f5401524e5",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "f5401524e5",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": false,
+  "org_ours": false
+ },
+ {
+  "scene": "f8062cb7ce",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": false,
+  "org_ours": false
+ },
+ {
+  "scene": "f8062cb7ce",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "f8062cb7ce",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ },
+ {
+  "scene": "f8062cb7ce",
+  "kind": "rot",
+  "has_h": false,
+  "axis_ok": true,
+  "mao_official": false,
+  "mao_ours": false,
+  "org_official": false,
+  "org_ours": false
+ },
+ {
+  "scene": "f8062cb7ce",
+  "kind": "rot",
+  "has_h": true,
+  "axis_ok": true,
+  "mao_official": true,
+  "mao_ours": true,
+  "org_official": true,
+  "org_ours": true
+ }
+]

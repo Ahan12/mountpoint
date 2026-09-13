@@ -1,0 +1,9 @@
+# Analysis, evaluation and figures -- everything except the segmentation front
+# end. These versions are the ones every number in docs/ was produced with.
+numpy==2.5.3
+scipy==1.18.1
+matplotlib==3.11.2
+plyfile==1.1.5
+
+# NOTE on numpy 2.x: ndarray.ptp() was removed. If you pin numpy<2 instead,
+# nothing here breaks; if you pin a newer 2.x, nothing here breaks either.

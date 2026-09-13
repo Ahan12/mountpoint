@@ -1,0 +1,10 @@
+{
+ "n_elements": 116,
+ "n_with_region": 103,
+ "det_at_025": 8.74,
+ "recall_ge_05_pct": 40.78,
+ "median_recall": 0.2828,
+ "median_precision": 0.0033,
+ "median_bloat": 6.51,
+ "median_bloat_on_found": 14.16
+}

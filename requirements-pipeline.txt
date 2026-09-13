@@ -1,0 +1,19 @@
+# The segmentation front end (sf3d/pipeline.py, retrieval.py, lifting.py).
+# Needs a CUDA GPU; the motion module and every evaluation script do not.
+#
+# transformers is PINNED and the pin is load-bearing: 4.49.0 is the version the
+# reported detection numbers were produced with. We twice suspected a newer
+# release of causing a regression and twice found it innocent, so the pin is
+# here for reproducibility rather than because a newer version is known bad.
+torch>=2.1
+torchvision>=0.16
+transformers==4.49.0
+open-clip-torch>=2.24
+segment-anything>=1.0
+opencv-python>=4.8
+Pillow>=10.0
+
+# Not installable from PyPI -- see README "Weights that cannot ship":
+#   DINOv3 ViT-L/16 checkpoint  (gated on Hugging Face)
+#   SAM ViT-B checkpoint        (Meta release)
+#   GroundingDINO-tiny          (Hugging Face, ungated)
