@@ -1,20 +1,12 @@
-# ---- Data: never committed. Point $SF3D_ROOT at it instead. ----
-data/
+# Data lives outside the repo; point $MOUNTPOINT_DATA at it.
 *.ply
 *.pth
 *.pkl
 *.npz
 
-# ---- Generated figures are TRACKED (docs/figures); scratch renders are not ----
-*.png
-!docs/figures/*.png
-
-# ---- Python ----
 __pycache__/
 *.pyc
 .venv/
 venv/
 .ipynb_checkpoints/
-
-# ---- macOS ----
 .DS_Store

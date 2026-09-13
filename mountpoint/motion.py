@@ -354,3 +354,47 @@ def predict_motion_given_panel(pts, panel, kind, nbr=None):
     else:
         org = far if abs(proj.max()) >= abs(proj.min()) else near
     return dict(motion_type='rot', motion_dir=axis, motion_origin=org)
+
+# ---- signed direction (Sec. 4.2) --------------------------------------------
+# predict_dir returns an AXIS: a plane fit determines a normal only up to sign,
+# so the deployed direction is sign-correct about half the time. The composed
+# metric is unsigned so this costs nothing there, but the annotations are signed
+# and meaningful, so we recover the sign from geometry already in hand.
+#
+# An element protrudes from the surface it is mounted on, so the sign of
+# (element centroid - shell centroid) . n identifies the outward side. The
+# affordance then supplies the sense: pull goes outward, press and plug inward.
+# Revolute elements are excluded -- a hinge axis has no preferred end.
+#
+# Measured, n=432 prismatic: unsigned 84.3% (the ceiling), deployed 40.7%,
+# with this rule 76.9%.
+
+_SENSE = {'hook_pull': +1, 'pinch_pull': +1, 'unplug': +1,
+          'key_press': -1, 'tip_push': -1, 'foot_push': -1, 'plug_in': -1}
+
+def outward_normal(pts, nbr, cen, extent, pn):
+    """Orient `pn` away from the mounting surface. None if the shell is too thin."""
+    d = np.linalg.norm(nbr - cen, axis=1)
+    h = 4.0
+    shell = nbr[(d > extent * 1.5) & (d < extent * h)]
+    while len(shell) < 50 and h < 12.0:
+        h *= 1.5
+        shell = nbr[(d > extent * 1.5) & (d < extent * h)]
+    if len(shell) < 50:
+        return None
+    return pn if (cen - shell.mean(0)) @ pn > 0 else -pn
+
+def signed_dir(label, pts, nbr):
+    """Direction as a VECTOR rather than an axis. None where undefined:
+    revolute elements, and labels with no canonical sense."""
+    if label not in _SENSE:
+        return None
+    cen = pts.mean(0)
+    extent = float(np.linalg.norm(pts - cen, axis=1).mean())
+    if predict_type(label, nbr, cen, extent) != 'trans':
+        return None
+    pn = parent_normal(nbr, cen, extent)
+    if pn is None:
+        return None
+    on = outward_normal(pts, nbr, cen, extent, pn)
+    return None if on is None else on * _SENSE[label]

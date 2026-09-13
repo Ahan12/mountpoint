@@ -26,16 +26,19 @@ what remains is exactly the motion criteria.
 
 Run: python scripts/articulate3d_official_metric.py
 """
+import os, sys
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from mountpoint import config as C, motion as M
 import sys, os, glob, json
 import numpy as np, h5py
 from scipy.spatial import cKDTree
 
-from _paths import REPO, DATA_ROOT, TOOLKIT, DOCS, A3D_VAL  # noqa: F401
-CODE = REPO          # repo root: code, docs, figures
-BASE = DATA_ROOT     # data root: scans, caches, exemplar DB
-from sf3d import motion as M
+from mountpoint import motion as M
 
-VAL = A3D_VAL   # $ARTICULATE3D_ROOT; see README "Data layout"
+VAL = C.A3D
+if not VAL or not os.path.isdir(VAL):
+    raise SystemExit('Set ARTICULATE3D_DATA to the Articulate3D validation split.\n'
+                     'See README, "Data".')
 
 def official_axis_ok(gt_axis, pred_axis, axis_th=15):
     d = np.dot(gt_axis, pred_axis) / (np.linalg.norm(gt_axis)*np.linalg.norm(pred_axis))

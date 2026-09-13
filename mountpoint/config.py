@@ -1,18 +1,30 @@
-"""Single source of truth. Every tunable lives here and nowhere else."""
+"""Paths and tunables. Every constant in the method lives here, and nowhere else.
+
+Paths resolve from the environment so the package runs anywhere:
+    MOUNTPOINT_DATA       SceneFun3D root (required)
+    SCENEFUN3D_TOOLKIT    official evaluator (segmentation metrics only)
+    ARTICULATE3D_DATA     cross-dataset transfer only
+"""
 import os
 
-# Every path resolves from $SF3D_ROOT, which must point at a directory laid out
-# as described in README.md ("Data layout"). Nothing here assumes Colab, Google
-# Drive, or any particular home directory -- an earlier version hardcoded a
-# Drive path, which let a stale copy of this package diverge silently from the
-# repository for weeks. See README, "Why paths come from the environment".
-ROOT      = os.environ.get('SF3D_ROOT', os.path.expanduser('~/scenefun3d'))
-DATA      = f'{ROOT}/data'
-FRAMES    = f'{ROOT}/frames'
-DB_PATH   = f'{ROOT}/exemplar_db.pkl'
-CKPT      = f'{ROOT}/dinov3_vitl14_pretrain.pth'  # see README: not redistributable
-HUB_ID    = 'facebook/dinov3-vitl16-pretrain-lvd1689m'
-CLIP_CACHE= f'{ROOT}/clip_embs.npz'
+ROOT    = os.environ.get('MOUNTPOINT_DATA', os.path.expanduser('~/scenefun3d'))
+DATA    = f'{ROOT}/data'            # <visit>/<visit>_laser_scan.ply, _annotations.json
+FRAMES  = f'{ROOT}/frames'          # posed RGB-D, 2D stage only
+CACHE   = f'{ROOT}/cache'           # per-element points + neighbourhoods
+DB_PATH = f'{ROOT}/exemplar_db.pkl'
+CKPT    = f'{ROOT}/dinov3_vitl16.pth'
+TOOLKIT = os.environ.get('SCENEFUN3D_TOOLKIT', '')   # official evaluator
+A3D     = os.environ.get('ARTICULATE3D_DATA', '')    # cross-dataset transfer
+
+CLIP_CACHE = f'{ROOT}/clip_embs.npz'
+HUB_ID     = 'facebook/dinov3-vitl16-pretrain-lvd1689m'
+
+def require(*paths):
+    """Fail with the fix, not with a traceback forty lines later."""
+    missing = [p for p in paths if not os.path.exists(p)]
+    if missing:
+        raise SystemExit('Missing:\n  ' + '\n  '.join(missing) +
+                         f'\n\nMOUNTPOINT_DATA is {ROOT!r}. See README.')
 
 # ---- measured; see notebook header for evidence ----
 LAYER       = 1        # tied set {1,2,16}

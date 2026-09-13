@@ -38,6 +38,9 @@ scoring problem above.
 
 Run: python ap_confidence_and_ar.py --cache <drive>/liftcache_split0.pkl
 """
+import os, sys
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from mountpoint import config as C, motion as M
 import os, sys, json, pickle, argparse, types, collections
 
 import numpy as np
@@ -53,15 +56,12 @@ if not hasattr(np, 'in1d'):
 
 import eval.functionality_segmentation.eval_utils.eval_script as ES
 from scipy.spatial import cKDTree
-from _paths import REPO, DATA_ROOT, TOOLKIT, DOCS  # noqa: F401
-CODE = REPO          # repo root: code, docs, figures
-BASE = DATA_ROOT     # data root: scans, caches, exemplar DB
 
 ap = argparse.ArgumentParser()
 ap.add_argument('--cache', required=True)
-ap.add_argument('--data-root', default=f'{DATA_ROOT}/data_merged')
-ap.add_argument('--gt-dir', default=f'{DATA_ROOT}/apconf_gt')
-ap.add_argument('--out', default=f'{DOCS}/ap_confidence.json')
+ap.add_argument('--data-root', default=f'{C.ROOT}/data_merged')
+ap.add_argument('--gt-dir', default=f'{C.ROOT}/apconf_gt')
+ap.add_argument('--out', default=f'{C.ROOT}/results/ap_confidence.json')
 a = ap.parse_args()
 os.makedirs(a.gt_dir, exist_ok=True)
 

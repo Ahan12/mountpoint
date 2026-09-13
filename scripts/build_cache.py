@@ -22,13 +22,13 @@ Run on Colab:
   The r11 cache (radius 1.10 m) is the one every motion result uses; the 0.60 m
   cache exists only to reproduce the neighbourhood-radius study.
 """
+import os, sys
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from mountpoint import config as C, motion as M
 import os, glob, json, argparse
 import numpy as np
 from plyfile import PlyData
 from scipy.spatial import cKDTree
-from _paths import REPO, DATA_ROOT, TOOLKIT, DOCS  # noqa: F401
-CODE = REPO          # repo root: code, docs, figures
-BASE = DATA_ROOT     # data root: scans, caches, exemplar DB
 
 def rec(o, *ks):
     if isinstance(o, list):

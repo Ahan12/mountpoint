@@ -11,7 +11,7 @@ Two chains are produced so the cost of each stage is separable:
   GT-region chain    AP25=100 -> +M -> +MA -> +MAO   (motion error only)
   PREDICTED chain    AP25=our -> +M -> +MA -> +MAO   (segmentation AND motion)
 
-Motion is computed by the unmodified `sf3d.motion.predict_motion`. Neighbourhood
+Motion is computed by the unmodified `mountpoint.motion.predict_motion`. Neighbourhood
 context comes from the laser scan around the region centroid (the parent-surface
 rule needs >=1.1 m, which a small predicted blob cannot supply), so the
 comparison isolates "noisy region" from "noisy scene".
@@ -21,6 +21,9 @@ across scenes and colliding ids silently destroy recall.
 
 Run: python composed_metric_predicted.py --cache <drive>/liftcache_split0.pkl
 """
+import os, sys
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from mountpoint import config as C, motion as M
 import os, sys, json, pickle, argparse, types, collections
 from copy import deepcopy
 
@@ -36,18 +39,15 @@ if not hasattr(np, 'in1d'):
     np.in1d = np.isin
 
 import eval.functionality_segmentation.eval_utils.eval_script as ES
-from _paths import REPO, DATA_ROOT, TOOLKIT, DOCS  # noqa: F401
-CODE = REPO          # repo root: code, docs, figures
-BASE = DATA_ROOT     # data root: scans, caches, exemplar DB
-from sf3d import motion as MOT
-from sf3d import lifting as L
+from mountpoint import motion as MOT
+from mountpoint import lifting as L
 from scipy.spatial import cKDTree
 
 ap = argparse.ArgumentParser()
 ap.add_argument('--cache', required=True)
-ap.add_argument('--data-root', default=f'{DATA_ROOT}/data_merged')
-ap.add_argument('--gt-dir', default=f'{DATA_ROOT}/comp_pred_gt')
-ap.add_argument('--out', default=f'{DOCS}/composed_predicted.json')
+ap.add_argument('--data-root', default=f'{C.ROOT}/data_merged')
+ap.add_argument('--gt-dir', default=f'{C.ROOT}/comp_pred_gt')
+ap.add_argument('--out', default=f'{C.ROOT}/results/composed_predicted.json')
 ap.add_argument('--conf', default='combined', choices=['frames', 'agree', 'extent', 'combined'])
 a = ap.parse_args()
 os.makedirs(a.gt_dir, exist_ok=True)

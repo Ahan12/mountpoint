@@ -4,6 +4,7 @@ numpy==2.5.3
 scipy==1.18.1
 matplotlib==3.11.2
 plyfile==1.1.5
+h5py==3.16.0        # Articulate3D release format; not needed for SceneFun3D
 
 # NOTE on numpy 2.x: ndarray.ptp() was removed. If you pin numpy<2 instead,
 # nothing here breaks; if you pin a newer 2.x, nothing here breaks either.

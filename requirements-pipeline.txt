@@ -1,4 +1,4 @@
-# The segmentation front end (sf3d/pipeline.py, retrieval.py, lifting.py).
+# The 2D front end (mountpoint/pipeline.py, retrieval.py, lifting.py).
 # Needs a CUDA GPU; the motion module and every evaluation script do not.
 #
 # transformers is PINNED and the pin is load-bearing: 4.49.0 is the version the
@@ -13,7 +13,4 @@ segment-anything>=1.0
 opencv-python>=4.8
 Pillow>=10.0
 
-# Not installable from PyPI -- see README "Weights that cannot ship":
-#   DINOv3 ViT-L/16 checkpoint  (gated on Hugging Face)
-#   SAM ViT-B checkpoint        (Meta release)
-#   GroundingDINO-tiny          (Hugging Face, ungated)
+# Model weights are fetched separately -- see README, "Models".

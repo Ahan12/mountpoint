@@ -13,7 +13,7 @@ import os, sys
 import numpy as np
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-from sf3d import motion as M
+from mountpoint import motion as M
 
 RNG = np.random.default_rng(0)
 

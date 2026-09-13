@@ -5,10 +5,24 @@ import numpy as np
 import cv2
 from scipy.spatial import cKDTree
 from plyfile import PlyData
-from utils.fusion_util import PointCloudToImageMapper
 
 from . import config as C
 from . import pipeline as P
+
+def _mapper():
+    """The toolkit's projection helper, imported on use rather than on import
+    so that `import mountpoint` works without the toolkit checked out."""
+    import sys
+    if C.TOOLKIT and C.TOOLKIT not in sys.path:
+        sys.path.insert(0, C.TOOLKIT)
+    try:
+        from utils.fusion_util import PointCloudToImageMapper
+    except ImportError:
+        raise SystemExit(
+            'Lifting needs the SceneFun3D toolkit.\n'
+            '  git clone https://github.com/SceneFun3D/scenefun3d\n'
+            '  export SCENEFUN3D_TOOLKIT=/path/to/scenefun3d')
+    return PointCloudToImageMapper
 
 
 def load_laser_scan_xyz(data_root, visit_id):
@@ -129,7 +143,7 @@ def lift_instance(parser, e, gt_indices, proto, prior_extent, n_frames=6,
 
     poses = parser.get_camera_trajectory(visit_id, video_id, pose_source='colmap')
     w, h, fx, fy, hw, hh = parser.read_camera_intrinsics(next(iter(intr_paths.values())))
-    mapper = PointCloudToImageMapper((int(w), int(h)), visibility_threshold=0.25, cut_bound=0)
+    mapper = _mapper()((int(w), int(h)), visibility_threshold=0.25, cut_bound=0)
 
     acc = np.zeros(n_points, np.float32)
     seen = np.zeros(n_points, np.float32)

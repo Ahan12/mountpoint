@@ -23,6 +23,9 @@ Key: f'{visit}/{annot_id}'
 
 Run:  python scripts/build_exemplars.py --data $SF3D_ROOT/data --out $SF3D_ROOT/exemplar_db.pkl
 """
+import os, sys
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from mountpoint import config as C, motion as M
 import os, sys, glob, json, pickle, argparse
 import numpy as np
 import cv2
@@ -30,9 +33,6 @@ from plyfile import PlyData
 
 from projection_utils import parse_traj, parse_pincam, project_points
 import extraction_pipeline as EX
-from _paths import REPO, DATA_ROOT, TOOLKIT, DOCS  # noqa: F401
-CODE = REPO          # repo root: code, docs, figures
-BASE = DATA_ROOT     # data root: scans, caches, exemplar DB
 
 def gray_from_ply(vx):
     """Per-point greyscale, for the colour-consistency check. Returns None if
@@ -193,7 +193,7 @@ if __name__ == '__main__':
     ap = argparse.ArgumentParser()
     ap.add_argument('--data', required=True, help='dir containing <visit>/ subdirs')
     ap.add_argument('--out', required=True)
-    ap.add_argument('--frames', default=f'{DATA_ROOT}/frames')
+    ap.add_argument('--frames', default=f'{C.ROOT}/frames')
     args = ap.parse_args()
 
     EX.FRAMES_DIR = args.frames
