@@ -113,6 +113,28 @@ def main():
         sub = {v: s for v, R in by_scene.items() if (s := [x for x in R if keep(x)])}
         show(nm, *ci(sub, gated, a.bootstrap, rng))
 
+    # ---- the central claim, measured directly (Sec. 4.1) ----
+    # Not an ablation of the full pipeline but the bare comparison it rests on:
+    # how far is the MOUNTING SURFACE normal from the true slide direction,
+    # against the element's OWN normal, on the same elements. Prismatic only,
+    # because there the parent normal IS the predicted direction.
+    par, own = [], []
+    for r in rows:
+        if 'rot' in r['mtype'].lower() or r['nbr'] is None:
+            continue
+        cen = r['pts'].mean(0)
+        extent = float(np.linalg.norm(r['pts'] - cen, axis=1).mean())
+        pn = M.parent_normal(r['nbr'], cen, extent)
+        if pn is None:
+            continue
+        par.append(M.OE(pn, r['dirv']))
+        own.append(M.OE(M.local_frame(r['pts'])[0], r['dirv']))
+    if par:
+        print(f'\nmounting surface vs the element itself, n={len(par)} prismatic')
+        print(f'  {"parent surface normal":<22} {np.median(par):6.2f} deg')
+        print(f'  {"element\'s own normal":<22} {np.median(own):6.2f} deg')
+        print(f'  {"reduction":<22} {np.median(own)/max(np.median(par),1e-9):6.2f}x')
+
     # ---- signed direction (Sec. 4.2) ----
     n = unsigned = deployed = signed = 0
     for r in rows:

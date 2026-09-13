@@ -98,8 +98,10 @@ def plane_normal_robust(pts, n_iter=3, k=2.5, min_keep=30):
 def parent_normal(nbr, cen, extent, lo=1.5, hi=4.0, min_pts=50, max_hi=12.0):
     """Fits a plane to a shell of neighbourhood points 1.5-4.0x the region's
     own extent, deliberately excluding the region's own points. Validated:
-    3.21 deg median on prismatic elements vs 11.50 deg for the region's own
-    normal -- a 3.6x reduction, flat across the shell-radius sweep.
+    2.13 deg median on prismatic elements vs 11.50 deg for the region's own
+    normal -- a 5.4x reduction, flat across the shell-radius sweep. (The 3.21
+    deg once quoted here predates the robust fit and adaptive shell below;
+    scripts/eval_motion.py re-measures it on every run.)
 
     Two well-posedness changes, both held-out validated (scripts/
     improve_direction.py, scripts/eval_gate_variant.py; 504 elements,
